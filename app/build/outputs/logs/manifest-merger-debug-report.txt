@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:6:22-71
+application
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anderson/.android/build-cache/ee0cf5efba1a123c0f11aaec2b4a4f369620212e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/anderson/.android/build-cache/d62e61452b71ec24ef9852701ab65374d037e132/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/anderson/.android/build-cache/dedc5aa0d2884c49acb1316b4b369f76d5f0e4fc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/anderson/.android/build-cache/9c3636bdca0e106849b209c41cea342b2580731b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/anderson/.android/build-cache/a209530b4af252b092d95c9fbd61f226eb119417/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/anderson/.android/build-cache/fa5010f40dbf9e99d2933830d23c22321793c8ef/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/anderson/.android/build-cache/2b0ef5671d5a812ceb4b2fb9eb5253554fd4948e/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/anderson/.android/build-cache/8b81572c20b989a1090bbc9626d419d572a10007/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/anderson/.android/build-cache/8d795d5c54093572fa4deb753490b2a79203dfbc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anderson/.android/build-cache/12cd43a4eb51a648e341ed577847178e50121b60/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.anderson.app.MainActivity
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:label
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:15:13-45
+	android:name
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:14:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anderson/.android/build-cache/ee0cf5efba1a123c0f11aaec2b4a4f369620212e/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/anderson/.android/build-cache/d62e61452b71ec24ef9852701ab65374d037e132/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/anderson/.android/build-cache/dedc5aa0d2884c49acb1316b4b369f76d5f0e4fc/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/anderson/.android/build-cache/9c3636bdca0e106849b209c41cea342b2580731b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/anderson/.android/build-cache/a209530b4af252b092d95c9fbd61f226eb119417/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/anderson/.android/build-cache/fa5010f40dbf9e99d2933830d23c22321793c8ef/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/anderson/.android/build-cache/2b0ef5671d5a812ceb4b2fb9eb5253554fd4948e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/anderson/.android/build-cache/8b81572c20b989a1090bbc9626d419d572a10007/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/anderson/.android/build-cache/8d795d5c54093572fa4deb753490b2a79203dfbc/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/anderson/.android/build-cache/12cd43a4eb51a648e341ed577847178e50121b60/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anderson/.android/build-cache/ee0cf5efba1a123c0f11aaec2b4a4f369620212e/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+		INJECTED from /home/anderson/AndroidStudioProjects/App/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anderson/.android/build-cache/ee0cf5efba1a123c0f11aaec2b4a4f369620212e/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/anderson/.android/build-cache/d62e61452b71ec24ef9852701ab65374d037e132/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/anderson/.android/build-cache/dedc5aa0d2884c49acb1316b4b369f76d5f0e4fc/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/anderson/.android/build-cache/9c3636bdca0e106849b209c41cea342b2580731b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/anderson/.android/build-cache/a209530b4af252b092d95c9fbd61f226eb119417/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/anderson/.android/build-cache/fa5010f40dbf9e99d2933830d23c22321793c8ef/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/anderson/.android/build-cache/2b0ef5671d5a812ceb4b2fb9eb5253554fd4948e/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/anderson/.android/build-cache/8b81572c20b989a1090bbc9626d419d572a10007/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/anderson/.android/build-cache/8d795d5c54093572fa4deb753490b2a79203dfbc/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anderson/.android/build-cache/ee0cf5efba1a123c0f11aaec2b4a4f369620212e/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/anderson/.android/build-cache/ee0cf5efba1a123c0f11aaec2b4a4f369620212e/output/AndroidManifest.xml:26:9-47
